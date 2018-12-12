@@ -1,0 +1,7 @@
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe.config
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csprojAssemblyReference.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.pdb
