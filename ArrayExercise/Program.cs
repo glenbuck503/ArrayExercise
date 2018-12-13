@@ -38,7 +38,7 @@ namespace ArrayExercise
             
 
 
-            //Number 3   I AM HAVING ISSUS WITH THIS STEP
+            //Number 3  Fixed 
             int[] numberArray2 = { 1, 2, 3, 4, 5, 6, 7 };
             Console.WriteLine("Please enter a number between 0-6");
             string wrongNum = Console.ReadLine();
