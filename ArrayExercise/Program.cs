@@ -48,6 +48,7 @@ namespace ArrayExercise
 
             {
                 Console.WriteLine("You have chosen a number greater than 6");
+                Console.ReadLine();
             }
                 Console.WriteLine(numberArray2[wrongNum1]);
             
